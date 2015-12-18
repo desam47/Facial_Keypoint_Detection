@@ -3,13 +3,14 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Dipesh Chand -- Developer -- @desam47
 
 # THANKS
 
-    <name>
+    Thanks to all my Blog readers, who encouraged me to write this Blog.
 
 # TECHNOLOGY COLOPHON
 
-    HTML5, CSS3
-    jQuery, Modernizr
+    Django
+    HTML5 Boilerplate
+    Twitter Bootstrap
