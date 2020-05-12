@@ -15,4 +15,4 @@ Greyscale image
 Facial key-points detected image
 ![](download2.png)
 
-
+This model can be also also implemented in video. The output of human facial key-points recognized in video can be seen in testVideo_out.avi
