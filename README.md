@@ -7,4 +7,4 @@ Convolutional Neural Network to Recognize Human Facial Keypoints
 
 ![](download2.png)
 
-![](testVideo_out.avi)
+![](testVideo.mp4)
